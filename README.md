@@ -6,6 +6,8 @@ I'm currently working on making Vitess emulate MySQL better.
 
 Here are some projects I worked on that I think are extra cool:
 
+   * My 20% project at Planetscale is writing a [new query optimiser](https://github.com/vitessio/vitess/issues/7280) for Vitess. It is an implementation of the GOO paper, adapted to the kind of sharded plans we use in Vitess.
+   
    * The MySQL compatability project at [Vitess](https://github.com/vitessio/vitess/). The project was about making Vitess emulating MySQL in more situations, and lead to rewriting a lot of the planner and runtime components of the query handler in Vitess.
 
    * The [planner](https://github.com/neo4j/neo4j/tree/4.2/community/cypher/cypher-planner/src/main/scala/org/neo4j/cypher/internal/compiler/planner/logical) that Neo4j uses to plan Cypher queries. It's an implementation of a very interesting [paper](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.43.4235&rep=rep1&type=pdf) for how to do relational query optimization that we adapted to be used for graph queries.
