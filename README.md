@@ -17,3 +17,5 @@ Here are some projects I worked on that I think are extra cool:
    * The Morsel runtime in Neo4j. I was part of the inception of this project, but left before it made it into production. It's an implementation of this [paper](http://cs.brown.edu/~kayhan/papers/morsel_cp.pdf), and enables a single query to run on multiple threads, or a single thread to switch between multiple running queries.
 
    * The [compiled runtime](https://github.com/neo4j/neo4j/tree/3.2/enterprise/cypher/cypher-compiled-runtime-3.2/src/main/scala/org/neo4j/cypher/internal/compiled_runtime/v3_2) used by Neo4j. Again, it's the implementation of a [paper](https://w6113.github.io/files/papers/p539-neumann.pdf). It allows Cypher queries to be compiled to bytecode to run faster. This is another project that I was part of during it's start, but I left before it was done-done-done.
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=systay)](https://github.com/anuraghazra/github-readme-stats)
