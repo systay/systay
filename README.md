@@ -4,7 +4,11 @@ I'm Andrés, and I am a database developer. I've spent the last ten years writin
 
 I'm currently working on making Vitess emulate MySQL better.
 
+Here is some stuff I wrote:
+http://systay.github.io/
+
 Here are some projects I worked on that I think are extra cool:
+   * [Planning grouping and aggregation](https://github.com/vitessio/vitess/pull/9643) across shards was interesting. I was able to use the Local Aggregation algorith in the paper [Orthogonal Optimization of Subqueries and Aggregation](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.563.8492&rep=rep1&type=pdf), by Cesar A. Galindo-Legaria and Milind M. Joshi from Microsoft Corp. to split aggregation across two sides of a join.
 
    * I've been writing a [new query optimiser](https://github.com/vitessio/vitess/issues/7280) for Vitess. It is an implementation of the GOO paper, adapted to the kind of sharded plans we use in Vitess.
    
