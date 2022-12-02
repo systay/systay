@@ -8,6 +8,8 @@ Here is some stuff I wrote:
 http://systay.github.io/
 
 Here are some projects I worked on that I think are extra cool:
+   * The planner used by PlanetScale's Boost caching system. Unfortunately, it's not open source, so I can't link to it. It's a pretty standard planner, with the twist that operators in the plan tree can be re-used multiple times (which makes the plan-tree a plan DAG really).
+
    * [Planning grouping and aggregation](https://github.com/vitessio/vitess/pull/9643) across shards was interesting. I was able to use the Local Aggregation algorith in the paper [Orthogonal Optimization of Subqueries and Aggregation](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.563.8492&rep=rep1&type=pdf), by Cesar A. Galindo-Legaria and Milind M. Joshi from Microsoft Corp. to split aggregation across two sides of a join. I wrote a [blog post](https://planetscale.com/blog/grouping-and-aggregations-on-vitess) about it. 
 
    * I've been writing a [new query optimiser](https://github.com/vitessio/vitess/issues/7280) for Vitess. It is an implementation of the GOO paper, adapted to the kind of sharded plans we use in Vitess.
