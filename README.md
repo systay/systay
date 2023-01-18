@@ -7,6 +7,8 @@ I'm currently working on making Vitess emulate MySQL better.
 Here is some stuff I wrote:
 http://systay.github.io/
 
+I was also part of [writing a paper](https://scholar.google.com/citations?user=ZA9AZq4AAAAJ&hl=en&citsig=AMD79opH4qlRfuM1_GJiZiiZ4PJ1BKviWQ). It seems to be cited a lot. 
+
 Here are some projects I worked on that I think are extra cool:
    * The planner used by PlanetScale's [Boost caching system](https://planetscale.com/features/boost). Unfortunately, it's not open source, so I can't link to it. It's a pretty standard planner, with the twist that operators in the plan tree can be re-used multiple times (which makes the plan-tree a plan DAG really).
 
