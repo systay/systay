@@ -4,7 +4,7 @@ I'm Andrés, and I am a database developer. I've spent the last ten years writin
 
 I'm currently working on making Vitess emulate MySQL better.
 
-Here is some stuff I wrote:
+Here is some blog posts I wrote:
 http://systay.github.io/
 
 I was also part of [writing a couple of papers](https://scholar.google.com/citations?user=ZA9AZq4AAAAJ&hl=en&citsig=AMD79opH4qlRfuM1_GJiZiiZ4PJ1BKviWQ). It seems to be cited a lot. 
