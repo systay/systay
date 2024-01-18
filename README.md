@@ -6,7 +6,7 @@ I'm Andrés, a seasoned database developer with a decade of expertise in designi
 
 📝 **Blogs and Papers**: 
 - Explore my insights: [My Blog](http://systay.github.io/)
-- Proud contributor to influential academic papers, frequently cited in scholarly circles. [View my papers](https://scholar.google.com/citations?user=ZA9AZq4AAAAJ&hl=en&citsig=AMD79opH4qlRfuM1_GJiZiiZ4PJ1BKviWQ)
+- Proud contributor to academic papers, frequently cited in scholarly circles. [View my papers](https://scholar.google.com/citations?user=ZA9AZq4AAAAJ&hl=en&citsig=AMD79opH4qlRfuM1_GJiZiiZ4PJ1BKviWQ)
 
 🌟 **Highlighted Projects**:
 - **PlanetScale's Boost Caching System**: Developed the planner for this innovative caching system, introducing a unique approach where operators in the plan tree can be reused multiple times, transforming the plan-tree into a plan DAG.
