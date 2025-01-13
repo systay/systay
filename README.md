@@ -1,26 +1,28 @@
-### Hi there 👋
+## Hi there 👋
 
-I'm Andrés, a seasoned database developer with a decade of expertise in designing query planners and runtime engines. My journey has been deeply intertwined with Neo4j and Vitess, and you can find much of my work here on GitHub.
+I’m Andrés, a database developer with over a decade of hands-on experience building query planners and runtime engines. My work revolves around Neo4j and Vitess, and you’ll find most of my contributions right here on GitHub.
 
-🚀 **Current Focus**: Enhancing Vitess to more effectively emulate MySQL.
+### What I’m Focusing On:
+ - Improving Vitess so it behaves more like MySQL.
 
-📝 **Blogs and Papers**: 
-- Explore my insights: [My Blog](http://systay.github.io/)
-- Proud contributor to academic papers, frequently cited in scholarly circles. [View my papers](https://scholar.google.com/citations?user=ZA9AZq4AAAAJ&hl=en&citsig=AMD79opH4qlRfuM1_GJiZiiZ4PJ1BKviWQ)
-
-🌟 **Highlighted Projects**:
-- **Grouping and Aggregation Across Shards in Vitess**: Implemented the Local Aggregation algorithm from the [Orthogonal Optimization of Subqueries and Aggregation](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.563.8492&rep=rep1&type=pdf) paper to optimize aggregation across join operations. [Read more](https://planetscale.com/blog/grouping-and-aggregations-on-vitess)
-- **New Query Optimizer for Vitess**: Spearheading the development of a [new query optimizer](https://github.com/vitessio/vitess/issues/7280) based on the GOO paper, adapted for Vitess's sharded plans.
-- **MySQL Compatibility Project for Vitess**: Played a key role in enhancing Vitess's emulation of MySQL, leading to significant rewrites in Vitess's planner and runtime components.
-- **Neo4j's Cypher Query Planner**: Contributed to the development of the planner for Cypher queries, based on a novel approach to relational query optimization adapted for graph queries.
-- **Creation of Cypher, Neo4j's Query Language**: Led the initiative to specify and standardize Cypher, which has since become the primary interface for thousands of developers worldwide. [Cypher Specification](https://github.com/opencypher/openCypher)
-- **Morsel Runtime in Neo4j**: Instrumental in the early stages of the Morsel runtime project, enabling more efficient query processing.
-- **Compiled Runtime for Neo4j**: Involved in the initial development of Neo4j's compiled runtime, allowing Cypher queries to be executed faster by compiling them to bytecode.
-- **PlanetScale's Boost Caching System**: Developed the planner for this innovative caching system, introducing a unique approach where operators in the plan tree can be reused multiple times, transforming the plan-tree into a plan DAG.
+### Blogs and Papers:
+- I share my thoughts on my [blog](http://systay.github.io/)
+- I’ve also contributed to academic papers—check them out [here](https://scholar.google.com/citations?user=ZA9AZq4AAAAJ&hl=en&citsig=AMD79opH4qlRfuM1_GJiZiiZ4PJ1BKviWQ).
 
 
-🏆 **Proud Achievements**:
-- Significant contributions to open-source projects like Vitess and Neo4j
+### Key Projects:
+ - *Grouping & Aggregation Across Shards in Vitess*: Brought in the Local Aggregation algorithm (inspired by [this paper](https://dl.acm.org/doi/abs/10.1145/376284.375748)) to optimize shard-level aggregations across joins. [Learn more](https://planetscale.com/blog/grouping-and-aggregations-on-vitess)
+ - *New Query Optimizer for Vitess*: Leading the charge on a [new optimizer](https://github.com/vitessio/vitess/issues/7280) based on the GOO paper, adapted for Vitess’s sharded architecture.
+ - *MySQL Compatibility for Vitess*: Helped enhance Vitess so it behaves more like MySQL, which involved overhauls to both the planner and runtime.
+ - *Neo4j’s Cypher Query Planner*: Designed and wrote most of the inaugural Cypher planner, applying relational optimization concepts to graph queries.
+ - *Creation of Cypher*: Oversaw the specification and standardization of Neo4j’s query language, now the go-to for countless developers. [Cypher Spec](https://github.com/opencypher/openCypher)
+ - *Morsel Runtime in Neo4j*: Worked on the early version of Morsel, boosting query performance in Neo4j.
+ - *Compiled Runtime for Neo4j*: Part of the original development team, helping Cypher queries run faster by compiling them to bytecode.
+ - *PlanetScale’s Boost Caching System*: Designed the planner for a caching approach that transforms the plan tree into a plan DAG, allowing operators to be reused multiple times.
+
+### Achievements
+- #3 contributor to [Vitess](https://github.com/vitessio/vitess/graphs/contributors) and #5 contributor to [Neo4j](https://github.com/neo4j/neo4j/graphs/contributors)—both major open-source database systems
+- **My contributions have helped these projects scale to thousands of users daily, improving performance and reliability in mission-critical deployments.**
 - Author of influential blog posts and academic papers
 
-I'm always eager to collaborate and discuss innovative ideas in database development. Feel free to reach out!
+If you’re looking for someone with deep expertise in distributed databases or query optimization, I’m always interested in exploring new roles and collaborations.
