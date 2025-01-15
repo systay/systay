@@ -22,7 +22,7 @@ I’m Andrés, a database developer with over a decade of hands-on experience bu
 
 ### Achievements
 - #3 contributor to [Vitess](https://github.com/vitessio/vitess/graphs/contributors) and #5 contributor to [Neo4j](https://github.com/neo4j/neo4j/graphs/contributors)—both major open-source database systems
-- **My contributions have helped these projects scale to thousands of users daily, improving performance and reliability in mission-critical deployments.**
+- My contributions have helped these projects scale to thousands of users daily, improving performance and reliability in mission-critical deployments.
 - Author of influential blog posts and academic papers
 
 If you’re looking for someone with deep expertise in distributed databases or query optimization, I’m always interested in exploring new roles and collaborations.
