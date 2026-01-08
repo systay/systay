@@ -3,12 +3,11 @@
 I’m Andrés, a database developer with over a decade of hands-on experience building query planners and runtime engines. My work revolves around Neo4j and Vitess, and you’ll find most of my contributions right here on GitHub.
 
 ### What I’m Focusing On:
- - Improving Vitess so it behaves more like MySQL.
+ - Building Neki. https://planetscale.com/blog/announcing-neki
 
 ### Blogs and Papers:
 - I share my thoughts on my [blog](http://systay.github.io/)
 - I’ve also contributed to academic papers—check them out [here](https://scholar.google.com/citations?user=ZA9AZq4AAAAJ&hl=en&citsig=AMD79opH4qlRfuM1_GJiZiiZ4PJ1BKviWQ).
-
 
 ### Key Projects:
  - *Grouping & Aggregation Across Shards in Vitess*: Brought in the Local Aggregation algorithm (inspired by [this paper](https://dl.acm.org/doi/abs/10.1145/376284.375748)) to optimize shard-level aggregations across joins. [Learn more](https://planetscale.com/blog/grouping-and-aggregations-on-vitess)
@@ -24,5 +23,3 @@ I’m Andrés, a database developer with over a decade of hands-on experience bu
 - #3 contributor to [Vitess](https://github.com/vitessio/vitess/graphs/contributors) and #5 contributor to [Neo4j](https://github.com/neo4j/neo4j/graphs/contributors)—both major open-source database systems
 - My contributions have helped these projects scale to thousands of users daily, improving performance and reliability in mission-critical deployments.
 - Author of influential blog posts and academic papers
-
-If you’re looking for someone with deep expertise in distributed databases or query optimization, I’m always interested in exploring new roles and collaborations.
